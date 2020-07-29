@@ -1,4 +1,10 @@
-### Hi there 👋
+## Michael Diener (He/Him)
+
+**Developer in the glittering city of Las Vegas hailing from the frigid mountain tops of Switzerland!**
+
+I am excited you found my profile page! While I am always looking for new challenges - as of right now I am not accepting any collaboration or job offers.
+
+P.S.: I am also not from the mountain tops of Switzerland. Fun fact, most of Switzerland is not at all mountaineous and looks just like any old regular place! Though we do have some special places always worth a visit!
 
 <!--
 **mdiener/mdiener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
