@@ -1,4 +1,4 @@
-## Michael (He/Him)
+## Michael (He/They)
 
 **Developer in the glittering city of Las Vegas hailing from the frigid mountain tops of Switzerland!**
 
